@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Custom_Startup_Location" lat="S16 41.354660" lon="W151 1.665932" heading="54.34"  radius="10" airlineCodes="" />
+        <Parking index="1" type="gate" name="Custom_Startup_Location" lat="S16 41.358248" lon="W151 1.688416" heading="53.32"  radius="10" airlineCodes="" />
+        <Parking index="2" type="gate" name="Custom_Startup_Location" lat="S16 41.360904" lon="W151 1.717837" heading="107.96"  radius="10" airlineCodes="" />
+        <Parking index="3" type="gate" name="Custom_Startup_Location" lat="S16 41.358554" lon="W151 1.743767" heading="169.55"  radius="10" airlineCodes="" />
+ </parkingList>
+</groundnet>

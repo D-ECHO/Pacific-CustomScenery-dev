@@ -1,0 +1,11 @@
+	MICRONESIA
+PTKK	Chuuk		done	pending gateway approval
+PTPN	Pohnpei		good
+PTRO	Roman		good
+PTSA	Kosrae		good
+PTYA	Yap		good
+	MARSHALL ISLANDS
+PKWA	Kwajalein
+PKRO	Roi-Namur
+PKMJ	Majuro
+PKMA	Enewetak

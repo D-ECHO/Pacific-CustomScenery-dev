@@ -1,0 +1,41 @@
+PROPERTY sim/west -180
+PROPERTY sim/east 180
+PROPERTY sim/north 90
+PROPERTY sim/south -90
+PROPERTY sim/planet earth
+PROPERTY sim/creation_agent WorldEditor1.4.0r2
+PROPERTY laminar/internal_revision 0
+PROPERTY sim/overlay 1
+PROPERTY sim/exclude_obj -140.970948/-18.064625/-140.960707/-18.061845
+PROPERTY sim/exclude_fac -140.970948/-18.064625/-140.960707/-18.061845
+OBJECT 0 -140.965248259 -18.063216923 7.510000
+OBJECT 1 -140.961135950 -18.064199251 313.040009
+BEGIN_POLYGON 0 10 2
+BEGIN_WINDING
+POLYGON_POINT -140.965089989 -18.063942838
+POLYGON_POINT -140.964117856 -18.064072615
+POLYGON_POINT -140.964082808 -18.063816568
+POLYGON_POINT -140.965053096 -18.063683284
+END_WINDING
+END_POLYGON
+OBJECT 2 -140.962679115 -18.062407691 187.779999
+OBJECT 3 -140.969374357 -18.063436766 0.000000
+OBJECT 4 -140.969601080 -18.063625858 0.000000
+OBJECT 4 -140.970065121 -18.063560614 0.000000
+OBJECT 5 -140.969078323 -18.063234799 186.279999
+OBJECT 6 -140.965838257 -18.062376103 7.300000
+OBJECT 7 -140.966965333 -18.062261409 8.300000
+OBJECT 8 -140.966989409 -18.062413453 278.359985
+OBJECT_DEF lib/airport/aircraft/GA/Cessna_172.obj
+OBJECT_DEF lib/airport/Vintage_Airports/Terminals/Admin_Bldg.obj
+OBJECT_DEF lib/airport/Modern_Airports/Control_Towers/Modern_Tower_3.agp
+OBJECT_DEF lib/airport/Common_Elements/Fuel_Storage/Sing_Tank_Small.obj
+OBJECT_DEF lib/airport/Common_Elements/Fuel_Storage/Sing_Tank_Medium.obj
+OBJECT_DEF lib/airport/Common_Elements/Fueling_Stations/2_horiz_tanks.agp
+OBJECT_DEF lib/airport/Common_Elements/Hangars/Med_Gray_Hangar.agp
+OBJECT_DEF lib/airport/Common_Elements/Hangars/FBO_Modern1.agp
+OBJECT_DEF lib/airport/aircraft/regional_jet/CRJ100_Air_France.obj
+POLYGON_DEF lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac
+PROPERTY sim/require_agpoint 1/0
+PROPERTY sim/require_object 1/0
+PROPERTY sim/require_facade 1/0

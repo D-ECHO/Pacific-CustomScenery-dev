@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="New_Ramp_Start_4" lat="S9 46.104836" lon="W139 0.603380" heading="34.07"  radius="17" airlineCodes="" />
+        <Parking index="1" type="gate" name="New_Ramp_Start_3" lat="S9 46.120880" lon="W139 0.608884" heading="119.59"  radius="17" airlineCodes="" />
+        <Parking index="2" type="gate" name="New_Ramp_Start_2" lat="S9 46.134179" lon="W139 0.617509" heading="123.18"  radius="17" airlineCodes="" />
+        <Parking index="3" type="gate" name="New_Ramp_Start_1" lat="S9 46.146529" lon="W139 0.623878" heading="-236.39"  radius="17" airlineCodes="" />
+ </parkingList>
+</groundnet>

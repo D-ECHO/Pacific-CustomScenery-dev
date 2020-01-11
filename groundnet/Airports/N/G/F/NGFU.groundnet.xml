@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="ga" name="GA_South_2" lat="S8 31.332307" lon="E179 11.942639" heading="51.39"  radius="10" pushBackRoute="6" airlineCodes="" />
+        <Parking index="1" type="ga" name="GA_South_1" lat="S8 31.338094" lon="E179 11.951090" heading="-48.66"  radius="10" pushBackRoute="6" airlineCodes="" />
+        <Parking index="2" type="ga" name="GA_North_1" lat="S8 31.153932" lon="E179 12.031608" heading="221.32"  radius="10" pushBackRoute="10" airlineCodes="" />
+        <Parking index="3" type="ga" name="GA_North_2" lat="S8 31.148064" lon="E179 12.025094" heading="221.32"  radius="10" pushBackRoute="9" airlineCodes="" />
+        <Parking index="4" type="gate" name="Terminal_Building" lat="S8 31.482371" lon="E179 11.725389" heading="221.32"  radius="18" pushBackRoute="8" airlineCodes="" />
+ </parkingList>
+ <TaxiNodes>
+        <node index="5" lat="S8 31.152364" lon="E179 12.020401" isOnRunway="0" holdPointType="none"  />
+        <node index="6" lat="S8 31.335897" lon="E179 11.950637" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="7" lat="S8 31.325141" lon="E179 11.948531" isOnRunway="0" holdPointType="none"  />
+        <node index="8" lat="S8 31.492489" lon="E179 11.723282" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="9" lat="S8 31.162557" lon="E179 12.032044" isOnRunway="0" holdPointType="PushBack"  />
+        <node index="10" lat="S8 31.143144" lon="E179 12.084832" isOnRunway="1" holdPointType="PushBack"  />
+        <node index="11" lat="S8 31.736236" lon="E179 11.528034" isOnRunway="1" holdPointType="none"  />
+        <node index="12" lat="S8 31.510063" lon="E179 11.740258" isOnRunway="1" holdPointType="none"  />
+        <node index="13" lat="S8 31.300198" lon="E179 11.937413" isOnRunway="1" holdPointType="none"  />
+        <node index="14" lat="S8 31.180263" lon="E179 12.050014" isOnRunway="1" holdPointType="none"  />
+        <node index="15" lat="S8 31.349233" lon="E179 11.921443" isOnRunway="0" holdPointType="none"  />
+        <node index="16" lat="S8 31.356010" lon="E179 11.971455" isOnRunway="0" holdPointType="none"  />
+        <node index="17" lat="S8 31.133560" lon="E179 12.049518" isOnRunway="0" holdPointType="none"  />
+        <node index="18" lat="S8 31.127692" lon="E179 12.043004" isOnRunway="0" holdPointType="none"  />
+        <node index="19" lat="S8 31.462000" lon="E179 11.743299" isOnRunway="0" holdPointType="none"  />
+ </TaxiNodes>
+ <TaxiWaySegments>
+        <arc begin="9" end="5" isPushBackRoute="0" name=""  />
+        <arc begin="5" end="9" isPushBackRoute="0" name=""  />
+        <arc begin="7" end="6" isPushBackRoute="0" name=""  />
+        <arc begin="6" end="7" isPushBackRoute="0" name=""  />
+        <arc begin="13" end="7" isPushBackRoute="0" name=""  />
+        <arc begin="7" end="13" isPushBackRoute="0" name=""  />
+        <arc begin="12" end="8" isPushBackRoute="0" name=""  />
+        <arc begin="8" end="12" isPushBackRoute="0" name=""  />
+        <arc begin="14" end="9" isPushBackRoute="0" name=""  />
+        <arc begin="9" end="14" isPushBackRoute="0" name=""  />
+        <arc begin="0" end="15" isPushBackRoute="1" name="GA_South_2"  />
+        <arc begin="15" end="0" isPushBackRoute="1" name="GA_South_2"  />
+        <arc begin="15" end="6" isPushBackRoute="1" name="GA_South_2"  />
+        <arc begin="6" end="15" isPushBackRoute="1" name="GA_South_2"  />
+        <arc begin="1" end="16" isPushBackRoute="1" name="GA_South_1"  />
+        <arc begin="16" end="1" isPushBackRoute="1" name="GA_South_1"  />
+        <arc begin="16" end="6" isPushBackRoute="1" name="GA_South_1"  />
+        <arc begin="6" end="16" isPushBackRoute="1" name="GA_South_1"  />
+        <arc begin="2" end="17" isPushBackRoute="1" name="GA_North_1"  />
+        <arc begin="17" end="2" isPushBackRoute="1" name="GA_North_1"  />
+        <arc begin="17" end="10" isPushBackRoute="1" name="GA_North_1"  />
+        <arc begin="10" end="17" isPushBackRoute="1" name="GA_North_1"  />
+        <arc begin="3" end="18" isPushBackRoute="1" name="GA_North_2"  />
+        <arc begin="18" end="3" isPushBackRoute="1" name="GA_North_2"  />
+        <arc begin="18" end="9" isPushBackRoute="1" name="GA_North_2"  />
+        <arc begin="9" end="18" isPushBackRoute="1" name="GA_North_2"  />
+        <arc begin="4" end="19" isPushBackRoute="1" name="Terminal_Building"  />
+        <arc begin="19" end="4" isPushBackRoute="1" name="Terminal_Building"  />
+        <arc begin="19" end="8" isPushBackRoute="1" name="Terminal_Building"  />
+        <arc begin="8" end="19" isPushBackRoute="1" name="Terminal_Building"  />
+ </TaxiWaySegments>
+</groundnet>

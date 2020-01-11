@@ -1,0 +1,8 @@
+work/
+data/SRTM-1
+data/shapefiles/osm_micronesia
+data/shapefiles/osm_marshall
+data/shapefiles/osm_coll*
+groundnet/aptdat2sqlite.py
+groundnet/sqlite2xml.py
+output/

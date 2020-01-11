@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Stand_A" lat="S17 29.372809" lon="W149 45.838429" heading="225"  radius="18" airlineCodes="" />
+        <Parking index="1" type="gate" name="Stand_B" lat="S17 29.381020" lon="W149 45.830065" heading="223.52"  radius="18" airlineCodes="" />
+        <Parking index="2" type="gate" name="Stand_C" lat="S17 29.393110" lon="W149 45.817674" heading="225"  radius="20" airlineCodes="" />
+        <Parking index="3" type="gate" name="Stand_D" lat="S17 29.401439" lon="W149 45.809065" heading="225.99"  radius="18" airlineCodes="" />
+        <Parking index="4" type="gate" name="Stand_E" lat="S17 29.412451" lon="W149 45.797170" heading="225.99"  radius="18" airlineCodes="" />
+        <Parking index="5" type="gate" name="Stand_F" lat="S17 29.420293" lon="W149 45.788249" heading="225.99"  radius="18" airlineCodes="" />
+        <Parking index="6" type="gate" name="Parking" lat="S17 29.429589" lon="W149 45.714692" heading="-43.13"  radius="18" airlineCodes="" />
+ </parkingList>
+</groundnet>

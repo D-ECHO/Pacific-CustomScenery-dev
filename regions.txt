@@ -1,0 +1,6 @@
+Micronesia:
+	137.5 - 163.3
+	1.0 - 10.2
+Marshall Islands
+	163.3 - 172.5
+	4.5 - 15.0	
